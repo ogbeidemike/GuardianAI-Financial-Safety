@@ -66,4 +66,4 @@ GuardianAI aims to improve AI safety by detecting risky financial situations and
 
 **Mike Ogbeide**
 
-Created as an AI Safety research project for the **Singapore AI Safety Fellowship 2026**.
+Created as an AI Safety research project.
